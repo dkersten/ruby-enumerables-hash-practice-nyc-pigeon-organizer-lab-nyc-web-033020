@@ -7,11 +7,9 @@ def nyc_pigeon_organizer(data)
   
   # find name in lives. Find where they live and add as key value pair in new hash
   
-  i = 0
   formatted_pigeon_data = {}
   
-  while i < data[:color] do 
-    i_element = 0
+  data.each do { || }
     
   end
 end
