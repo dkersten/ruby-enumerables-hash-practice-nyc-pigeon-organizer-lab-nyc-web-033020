@@ -9,7 +9,7 @@ def nyc_pigeon_organizer(data)
   
   formatted_pigeon_data = {}
   
-  data.each do ||
+  data.each do |key, value|
     
   end
 end
