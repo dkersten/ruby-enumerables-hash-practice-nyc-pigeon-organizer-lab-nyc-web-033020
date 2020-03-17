@@ -10,5 +10,8 @@ def nyc_pigeon_organizer(data)
   i = 0
   formatted_pigeon_data = {}
   
-  while i < data
+  while i < data[:color] do 
+    i_element = 0
+    
+  end
 end
